@@ -137,3 +137,35 @@ Each new version should include:
 - Date
 - Summary of changes
 - Reason for the update
+
+---
+
+Visual Design Specification
+
+Studio Style
+
+The KENHU Shoe Master Studio is designed to resemble a premium luxury commercial photography studio.
+
+The environment should immediately communicate quality, elegance, and professionalism.
+
+---
+
+Visual Goals
+
+- Clean composition
+- Premium luxury atmosphere
+- High-end commercial photography
+- Soft professional lighting
+- Strong focus on the shoe
+- Minimal visual distractions
+- Consistent brand identity
+
+---
+
+Product Priority
+
+The shoe is always the main subject.
+
+Every element in the studio exists to enhance the product, never to compete with it.
+
+The viewer's attention should naturally go to the shoe first.
