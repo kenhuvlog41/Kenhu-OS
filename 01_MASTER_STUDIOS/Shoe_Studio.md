@@ -72,3 +72,38 @@ Every generated image should maintain a luxurious, clean, professional, and reco
 The environment should never distract from the product.
 
 The shoe is always the hero of the scene.
+
+---
+
+Protected Studio Rules
+
+The following elements must remain consistent unless a new official studio version is approved.
+
+Protected Elements
+
+- Premium luxury appearance
+- Professional commercial lighting
+- Clean and uncluttered environment
+- Vertical 9:16 composition
+- Product always centered as the main subject
+- High-end product photography quality
+- Consistent premium visual identity
+
+Allowed Changes
+
+The following may change depending on the product:
+
+- Shoe model
+- Shoe color
+- Shoe size
+- Camera angle (when appropriate)
+- Decorative props (only if they enhance the product)
+- Minor lighting adjustments
+
+Forbidden Changes
+
+Never change the studio into a completely different environment without creating a new studio version.
+
+Never sacrifice product visibility for artistic effects.
+
+Never reduce image quality or realism.
